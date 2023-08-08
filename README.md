@@ -34,11 +34,11 @@ More details in the readme of each project
 
 Bitcoin wallet and transaction generator
 
-## Desafio 2 - Cryptocurrency on the Ethereum Network
+## Project 2 - Cryptocurrency on the Ethereum Network
 
 Creating my first cryptocurrency on the Ethereum network - Pattern ERC-20
 
-## Desafio 3 - NFT Pokemon
+## Project 3 - NFT Pokemon
 
 Using Solidity to develop my first NFT token in the ERC-721 pattern, simulating a game of battles between Pokemons.
 
