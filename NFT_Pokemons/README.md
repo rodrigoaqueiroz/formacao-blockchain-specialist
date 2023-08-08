@@ -1,6 +1,6 @@
 # Project - NFT Pokemon
 
-In this challenge we are going to use Solidity to develop our NFT token in the ERC-721 standard, simulating a game of battles between Pokemons.
+In this challenge we usede Solidity to develop our NFT token in the ERC-721 standard, simulating a game of battles between Pokemons.
 
 ## Goals:
 
