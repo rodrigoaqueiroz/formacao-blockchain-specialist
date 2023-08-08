@@ -2,7 +2,7 @@
 ## Bootcamp by Digital Innovation One 
 ---
 
-# Sumário
+# Summary
 
 - [Description](#description)
 - [Projects](#projects)
